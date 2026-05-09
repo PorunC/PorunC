@@ -20,11 +20,6 @@ Here are some ideas to get you started:
  - 🌱 I’m currently writing in [My Blog](http://www.misaka-9982.com/)
 
 
-<div>
-<span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=PorunC" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PorunC&layout=compact&langs_count=8" />
-<span>  </span>
-</div>
 
 
 ![](./assets/Bottom_down.svg)
